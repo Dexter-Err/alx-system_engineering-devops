@@ -1,4 +1,4 @@
-# in this repo we will dive deeper in the shell
+# in this folder we will demonstrate and practice each of these questions
     How to display a line of text
     How to concatenate files and print on the standard output
     How to reverse a string
